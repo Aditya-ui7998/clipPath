@@ -1,0 +1,26 @@
+.topSvg {
+    position: absolute;
+    bottom: 0;
+  }
+  
+  .top {
+    z-index: -2;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: block;
+  }
+  
+  .bott {
+    z-index: -2;
+    width: 100%;
+    display: block;
+  }
+  
+  .footerr {
+    background: rgba(10, 41, 77, 0.8);
+  }
+  
+  .best-price {
+    height: 40.5rem;
+  }
